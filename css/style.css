@@ -1,47 +1,43 @@
 body {
-  font-family: 'Lato', sans-serif;
-  color: #74704;
-  font-weight: 300;
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
 }
 
 .text-muted {
-  color: #BCBBBB;
+    color: #BCBBBB;
 }
 
 .text-thin {
-  font-weight: 100;
+    font-weight: 100;
 }
 
 .title-super {
-  font-size: 60px;
+    font-size: 60px;
 }
 
 .title-logo {
-  margin-top: 20px;
-  max-width:100px;
-  max-height: 100px;
+    margin-top: 20px;
+    max-width: 100px;
+    max-height: 100px;
 }
 
 #horizontal-line {
-  border-bottom: solid 4px #BCBBBB;
+    border-bottom: solid 4px #BCBBBB;
 }
-
 /*///ALIGN PAGE////*/
-
 .perfectly-align {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-} 
+}
 
 .align-top {
-  margin-right: 5px;
-  
+    margin-right: 5px;
 }
 
 .align-featured {
-  margin-right: 15px;
-  margin-left: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
 }
-
